@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+  #flutter pub get
+  #run the app
 
 This project is a starting point for a Flutter application.
 
