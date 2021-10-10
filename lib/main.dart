@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:igor/main.vm.dart';
 import 'package:stacked/stacked.dart';
-import 'Ui/pages/main/mainPage.dart';
+import 'Ui/pages/main/home.page.dart';
 
 void main() {
   runApp(MyApp());
